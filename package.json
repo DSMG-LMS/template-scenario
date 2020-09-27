@@ -1,0 +1,26 @@
+{
+  "name": "Template Scenario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "arduino-node": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSMG-LMS/template-scenario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSMG-LMS/template-scenario.git/issues"
+  },
+  "homepage": "hhttps://github.com/DSMG-LMS/template-scenario.git#readme"
+}
